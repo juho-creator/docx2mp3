@@ -225,7 +225,3 @@ convert_button.pack(pady=10)
 
 # 애플리케이션 실행
 app.mainloop()
-
-
-# 11 ---> 16
-# 35 --> 50
